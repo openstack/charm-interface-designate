@@ -1,0 +1,3 @@
+name: designate
+summary: Interface for exposing public API endpoint of Designate service
+maintainer: OpenStack Charmers <openstack-dev@lists.openstack.org>
